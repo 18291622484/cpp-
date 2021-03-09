@@ -1,0 +1,2 @@
+E:\git\cpp-\DateClass\Debug\DateClass.exe
+E:\git\cpp-\DateClass\Debug\DateClass.pdb
