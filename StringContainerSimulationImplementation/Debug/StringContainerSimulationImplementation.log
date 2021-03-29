@@ -1,0 +1,3 @@
+﻿  StringContainerSimulationImplementation.cpp
+E:\git\cpp-\StringContainerSimulationImplementation\StringContainerSimulationImplementation.cpp(155,25): warning C4018: “<”: 有符号/无符号不匹配
+  StringContainerSimulationImplementation.vcxproj -> E:\git\cpp-\StringContainerSimulationImplementation\Debug\StringContainerSimulationImplementation.exe

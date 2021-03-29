@@ -1,0 +1,2 @@
+E:\git\cpp-\StringContainerSimulationImplementation\Debug\StringContainerSimulationImplementation.exe
+E:\git\cpp-\StringContainerSimulationImplementation\Debug\StringContainerSimulationImplementation.pdb
